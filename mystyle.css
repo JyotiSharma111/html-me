@@ -36,7 +36,8 @@ h2{
       
       height: 150px;
       width: 150px;
-      border-block-end-color: blue;
+      border-style: solid;
+      border-color:black;
       margin: 20px;
       float: left;
       font-size: 200%;
@@ -44,8 +45,6 @@ h2{
       text-align: center;
       text-emphasis: float;
       white-space: pre-wrap;
-      
-      
   }
   div#first{
     background-color:lightgray;
